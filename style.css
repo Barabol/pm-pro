@@ -1,0 +1,30 @@
+html{
+	background-color:#282828;
+}
+.navItem{
+	text-decoration:none;
+}
+table{
+	color:#7fa093;
+	text-align:center;
+}
+td{
+	border: 1px solid #C1C101
+}
+input{
+	background-color:#282828;
+	text-align:center;
+	color: #fe8019;
+	border: none;
+}
+#saveBox{
+	transition: 0.5s;
+	opacity:0;
+	color: black;
+	background: green;
+	border-radius: 20px;
+	padding: 16px;
+	position: absolute;
+	top: 0;
+	right: 0;
+}

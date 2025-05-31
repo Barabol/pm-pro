@@ -1,0 +1,1 @@
+{"serial":{"path":"/dev/ttyUSB3","baudRate":"115200","reconnectTime":"500"},"macros":{"1":"firefox","2":"github-desktop","3":"ghostty --command=nvim","4":"ghostty --command=vim","5":""},"modes":{"0":"brightnessctl set %s%","1":"pactl set-sink-volume 0 %s%","2":"","3":"brightnessctl set %s%;pactl set-sink-volume 0 %s%","4":"pactl set-sink-volume 0 %s%"}}
